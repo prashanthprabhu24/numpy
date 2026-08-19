@@ -6,8 +6,9 @@ requires = [
 ]
 
 [project]
-name = "numpy"
-version = "2.6.0.dev0"
+name = "numpyautograde"
+numpyversion = "2.6.0.dev0"
+version = "1.0.0"
 description = "Fundamental package for array computing in Python"
 authors = [{name = "Travis E. Oliphant et al."}]
 maintainers = [
